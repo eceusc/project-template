@@ -1,6 +1,6 @@
 # Project Template
 
-A template for all ECE USC Open Source project repos! 
+A template for all ECE USC Open Source project repos!
 
 
 ## What is this?
@@ -10,8 +10,31 @@ In our GitHub organization, [@eceusc](https://github.com/eceusc), we have a lot 
 
 ## Usage
 
-### Templatize a new project repo
+Everything you need is inside the `/template` directory - this includes:
 
+### `README.md`
 
-### Templatize an existing repo
+This is a simple skeleton of suggestions of what to put in your repository. Most of the sections are straightforward - `About`, `Getting Started`, `Quick Demo`, `Prerequisites`, etc.
 
+### `CODE_OF_CONDUCT.md`
+
+This Code of Conduct is an adaptations of the [Contributor Covenant](https://www.contributor-covenant.org/), with the [UC San Diego Principles of Community](https://ucsd.edu/about/principles.html) included as well.
+
+### `LICENSE.md`
+
+As of now, just a simple MIT license.
+
+## Adding to your repo
+
+To add these templates to your repo, on mac/linux use:
+
+``` bash
+wget https://raw.githubusercontent.com/eceusc/project-template/master/README.md
+wget https://raw.githubusercontent.com/eceusc/project-template/master/CODE_OF_CONDUCT.md
+wget https://raw.githubusercontent.com/eceusc/project-template/master/LICENSE.md
+```
+
+Or, click these links for a direct download to your repo:
+- [`README.md`](https://raw.githubusercontent.com/eceusc/project-template/master/README.md)
+- [`CODE_OF_CONDUCT.md`](https://raw.githubusercontent.com/eceusc/project-template/master/CODE_OF_CONDUCT.md)
+- [`README.md`](https://raw.githubusercontent.com/eceusc/project-template/master/LICENSE.md)
