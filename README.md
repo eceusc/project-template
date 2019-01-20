@@ -24,11 +24,17 @@ This Code of Conduct is an adaptations of the [Contributor Covenant](https://www
 
 As of now, just a simple MIT license.
 
+## Adding to your repo
 
-To add these templates to your repo, simple run:
+To add these templates to your repo, on mac/linux use:
 
 ``` bash
 wget https://raw.githubusercontent.com/eceusc/project-template/master/README.md
 wget https://raw.githubusercontent.com/eceusc/project-template/master/CODE_OF_CONDUCT.md
 wget https://raw.githubusercontent.com/eceusc/project-template/master/LICENSE.md
 ```
+
+Or, click these links for a direct download to your repo:
+- [`README.md`](https://raw.githubusercontent.com/eceusc/project-template/master/README.md)
+- [`CODE_OF_CONDUCT.md`](https://raw.githubusercontent.com/eceusc/project-template/master/CODE_OF_CONDUCT.md)
+- [`README.md`](https://raw.githubusercontent.com/eceusc/project-template/master/LICENSE.md)
