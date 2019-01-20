@@ -1,10 +1,10 @@
-# Project Example Name :notebook_with_decorative_cover: ![](https://img.shields.io/badge/slack-%23project--vending--machine-%234d394b.svg?style=flat&logo=slack&link=https%3A%2F%2Feceopensource.slack.com%2Fmessages%2FCF90BHRAM)
+# Project Example Name ![](https://img.shields.io/badge/slack-%23project--vending--machine-%234d394b.svg?style=flat&logo=slack&link=https%3A%2F%2Feceopensource.slack.com%2Fmessages%2FCF90BHRAM)
 
-A quick one line explanation of what the project does!
+A quick one line explanation of what the project does, with emoji! :notebook_with_decorative_cover:
 
 \<NOTE: this template is mostly a suggestion, nothing here is mandatory. Feel free to change the structure or writing style in your actual repo.\>
 
-\<NOTE: Change the default badges up top. Change the emoji to the project's emoji. The Slack one can be built at [this link](https://beta.observablehq.com/d/cc3879233bd51cd0?subject=slack&status=%23project-vending-machine&style=flat&logo=slack&color=%234d394b&link=https%3A%2F%2Feceopensource.slack.com%2Fmessages%2FCF90BHRAM), just change the "Status" to the project's slack channel and the "link" to the project's slack channel's link. Then, click the "Copy badge markdown" button and paste the result up above\>
+\<NOTE: Change the default badges up top. The Slack one can be built at [this link](https://beta.observablehq.com/d/cc3879233bd51cd0?subject=slack&status=%23project-vending-machine&style=flat&logo=slack&color=%234d394b&link=https%3A%2F%2Feceopensource.slack.com%2Fmessages%2FCF90BHRAM), just change the "Status" to the project's slack channel and the "link" to the project's slack channel's link. Then, click the "Copy badge markdown" button and paste the result up above\>
 
 ## About
 
@@ -35,20 +35,20 @@ If someone wants to run this project, do they need to install thing? This can be
 
 Quick 1-2 sentences saying where to run these commands (terminal, git bash on Windows, etc.)
 
-\`\`\`shell
+```shell
 
 git clone https://github.com/eceusc/project-example.git
 cd project-example
 # set up commands, install dependencies, etc
 python3 main.py
-\`\`\`
+```
 
 Then, 1 sentence to show what they should see after running the above:
 
-\`\`\`shell
+```shell
 $ python3 main.py
 Example server running on port 3000!
-\`\`\`
+```
 
 \<Optional: if a webserver, a [link](http://localhost:3000) to the localhost port where their project should be running\>
 
@@ -70,7 +70,7 @@ Something like "If you have trouble install the above, try:"
 
 If you would like to contribute, follow these steps:
 
-1. Fork]() this repository
+1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository
 2. On your forked repository, create a branch for your specific feature/fix (`git checkout -b my-contribution`)
 3. Commit your changes, push it to your repo (`git commit -m "message describing your changes"`, `git push origin master`)
 4. On GitHub, send a pull request to this repository!
