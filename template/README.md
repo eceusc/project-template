@@ -65,3 +65,14 @@ Something like "If you have trouble install the above, try:"
 "If you still can't figure it out, join the [ECE USC Open Source Slack](https://join.slack.com/t/eceopensource/shared_invite/enQtNTI3NjE5MzczMjY1LWQ2YTE3ZmEzODcyM2JlOTM2M2RkMDM5MzEwYTdlYTQ1MWM5MmFjNTQ5MTI5MTI1YjA1NTNhNTk2YjA1YTllMzU) and ask for help in our [#help](https://eceopensource.slack.com/messages/CDCH9HTFW) slack channel!
 
 ## Contributing
+
+<NOTE: This describes how someone can contribute to the project. We'll want to (1) describe the steps to fork+make changes+send a PR, (2) talk about how they can pickup an issue, and (3) remind them of the Code of Conduct./>
+
+If you would like to contribute, follow these steps:
+
+1. Fork]() this repository
+2. On your forked repository, create a branch for your specific feature/fix (`git checkout -b my-contribution`)
+3. Commit your changes, push it to your repo (`git commit -m "message describing your changes"`, `git push origin master`)
+4. On GitHub, send a pull request to this repository!
+
+Also, take a look at the Issues tab above to see what needs help. Also keep in mind our Code of Conduct while you make your contributions :)
