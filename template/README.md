@@ -1,14 +1,16 @@
-# Project Example Name
+# Project Example Name :notebook_with_decorative_cover: ![](https://img.shields.io/badge/slack-%23project--vending--machine-%234d394b.svg?style=flat&logo=slack&link=https%3A%2F%2Feceopensource.slack.com%2Fmessages%2FCF90BHRAM)
 
-A quick tagline explanation with the project emoji! :notebook:
+A quick one line explanation of what the project does!
 
 \<NOTE: this template is mostly a suggestion, nothing here is mandatory. Feel free to change the structure or writing style in your actual repo.\>
 
+\<NOTE: Change the default badges up top. Change the emoji to the project's emoji. The Slack one can be built at [this link](https://beta.observablehq.com/d/cc3879233bd51cd0?subject=slack&status=%23project-vending-machine&style=flat&logo=slack&color=%234d394b&link=https%3A%2F%2Feceopensource.slack.com%2Fmessages%2FCF90BHRAM), just change the "Status" to the project's slack channel and the "link" to the project's slack channel's link. Then, click the "Copy badge markdown" button and paste the result up above\>
+
 ## About
 
-This paragraph (1-2 sentences) is a high-level non-technical overview of what the project is meant to do. 
+This paragraph (1-2 sentences) is a high-level non-technical overview of what the project is meant to do.
 
-This paragraph (1-2 sentences) is a more technical overview of how the project works (devices, programming languages, tools, hosting services, etc.). 
+This paragraph (1-2 sentences) is a more technical overview of how the project works (devices, programming languages, tools, hosting services, etc.).
 
 ## Getting Started
 
@@ -16,7 +18,7 @@ This section is a short, technical tutorial on how to clone, setup, and run the 
 
 ### Quick Demo
 
-If possible, have a "Deploy to Heroku", "Edit with Glitch". 
+If possible, have a "Deploy to Heroku", "Edit with Glitch" button.
 
 
 ### Prerequisites
@@ -37,9 +39,7 @@ Quick 1-2 sentences saying where to run these commands (terminal, git bash on Wi
 
 git clone https://github.com/eceusc/project-example.git
 cd project-example
-virtualenv venv
-./venv/bin/start
-pip install -r requirements.txt
+# set up commands, install dependencies, etc
 python3 main.py
 \`\`\`
 
@@ -50,7 +50,7 @@ $ python3 main.py
 Example server running on port 3000!
 \`\`\`
 
-\<Optional: if a webserver, a [link](http://localhost:3000) to the localhost port where their project should be running
+\<Optional: if a webserver, a [link](http://localhost:3000) to the localhost port where their project should be running\>
 
 
 ### Troubleshooting
@@ -62,8 +62,6 @@ Something like "If you have trouble install the above, try:"
 2. Make sure pip is installed
 3. If \<insert common error\>, try: doing X or Y
 
-"If you still cant figure it out, ask for help in the #help slack channel!
-
+"If you still can't figure it out, join the [ECE USC Open Source Slack](https://join.slack.com/t/eceopensource/shared_invite/enQtNTI3NjE5MzczMjY1LWQ2YTE3ZmEzODcyM2JlOTM2M2RkMDM5MzEwYTdlYTQ1MWM5MmFjNTQ5MTI5MTI1YjA1NTNhNTk2YjA1YTllMzU) and ask for help in our [#help](https://eceopensource.slack.com/messages/CDCH9HTFW) slack channel!
 
 ## Contributing
-
