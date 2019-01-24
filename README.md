@@ -29,9 +29,9 @@ As of now, just a simple MIT license.
 To add these templates to your repo, on mac/linux use:
 
 ``` bash
-wget https://raw.githubusercontent.com/eceusc/project-template/master/README.md
-wget https://raw.githubusercontent.com/eceusc/project-template/master/CODE_OF_CONDUCT.md
-wget https://raw.githubusercontent.com/eceusc/project-template/master/LICENSE.md
+wget https://raw.githubusercontent.com/eceusc/project-template/master/template/README.md
+wget https://raw.githubusercontent.com/eceusc/project-template/master/template/CODE_OF_CONDUCT.md
+wget https://raw.githubusercontent.com/eceusc/project-template/master/template/LICENSE.md
 ```
 
 Or, click these links for a direct download to your repo:
